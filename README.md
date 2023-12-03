@@ -15,6 +15,7 @@ Repositorio para el taller ***Cómo hacer fuentes variables con glyphs***
 
 - **Tutoriales**
   - [Creating a variable font - Glyphs](https://glyphsapp.com/learn/creating-a-variable-font)
+  - [Brackets Trick- capas alternativas ](https://glyphsapp.com/learn/alternating-glyph-shapes)
 
 - **Testea tus fuentes**
   - [Axis Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
