@@ -19,3 +19,4 @@ Repositorio para el taller ***Cómo hacer fuentes variables con glyphs***
 
 - **Testea tus fuentes**
   - [Axis Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
+  - [samsa](https://www.axis-praxis.org/samsa/)
