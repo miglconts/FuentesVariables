@@ -1,9 +1,11 @@
 {
-.appVersion = "3151";
+.appVersion = "3259";
 .formatVersion = 3;
 DisplayStrings = (
-"",
-R
+R,
+"ÓÓÖÖ",
+"á",
+a
 );
 axes = (
 {
@@ -4881,7 +4883,7 @@ unicode = 209;
 },
 {
 glyphname = Oacute;
-lastChange = "2023-12-02 23:49:15 +0000";
+lastChange = "2024-04-25 20:12:49 +0000";
 layers = (
 {
 layerId = master01;
@@ -4926,9 +4928,11 @@ width = 1120;
 layerId = m004;
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (410,0);
 ref = acutecomb.case;
 }
@@ -4940,7 +4944,7 @@ unicode = 211;
 },
 {
 glyphname = Odieresis;
-lastChange = "2023-12-02 23:49:15 +0000";
+lastChange = "2024-04-25 20:12:49 +0000";
 layers = (
 {
 layerId = master01;
@@ -4985,9 +4989,11 @@ width = 1120;
 layerId = m004;
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (410,0);
 ref = dieresiscomb.case;
 }
@@ -24161,6 +24167,15 @@ type = descender;
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright © 2021 by Alejandra Olivares, Alejandro Bautista, Eduardo Aire, Pedro Sosa, Sandra Morales. All rights reserved.";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -24172,15 +24187,6 @@ value = "Alejandra Olivares, Alejandro Bautista, Eduardo Aire, Pedro Sosa, Sandr
 {
 key = designerURL;
 value = "https://github.com/Torneo-Tipografico-Comunidad/Torneo-2021";
-},
-{
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright © 2021 by Alejandra Olivares, Alejandro Bautista, Eduardo Aire, Pedro Sosa, Sandra Morales. All rights reserved.";
-}
-);
 }
 );
 settings = {
